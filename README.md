@@ -1,5 +1,6 @@
 # Hoag Classic Dashboard
-Campaign Isnsights
+Campaign Insights
+Dashboard Link: https://analyticacoder.github.io/hoag-classic-dashboard/
 
 What worked well
 -Meta drove 97% of all clicks despite fewer impressions than programmatic
@@ -8,4 +9,4 @@ What worked well
 
 Opportunities for next flight
 -320x50 banners served 675K impressions but only 420 clicks; consider cutting or reducing allocation
--Newport Beach CC concept ran only in Flight 1, consider estending to nest flight and scale spend given its 6.81% CTR performance. 
+-Newport Beach CC concept ran only in Flight 1; consider extending to the next flight and scaling spend given its 6.81% CTR performance. 
